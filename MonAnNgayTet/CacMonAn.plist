@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 1</key>
+	<dict>
+		<key>name</key>
+		<string>Ba chỉ cuộn rau củ</string>
+		<key>photo</key>
+		<string>bachicuonraucu</string>
+	</dict>
+	<key>Item 2</key>
+	<dict>
+		<key>name</key>
+		<string>Bánh trưng</string>
+		<key>photo</key>
+		<string>banhtrung</string>
+	</dict>
+	<key>Item 3</key>
+	<dict>
+		<key>name</key>
+		<string>Canh măng</string>
+		<key>photo</key>
+		<string>canhmang</string>
+	</dict>
+	<key>Item 4</key>
+	<dict>
+		<key>name</key>
+		<string>Giờ chả</string>
+		<key>photo</key>
+		<string>giocha</string>
+	</dict>
+	<key>Item 5</key>
+	<dict>
+		<key>name</key>
+		<string>Mứt</string>
+		<key>photo</key>
+		<string>mut</string>
+	</dict>
+	<key>Item 6</key>
+	<dict>
+		<key>name</key>
+		<string>Nem chua</string>
+		<key>photo</key>
+		<string>nemchua</string>
+	</dict>
+	<key>Item 7</key>
+	<dict>
+		<key>name</key>
+		<string>Sườn nướng</string>
+		<key>photo</key>
+		<string>suonnuong</string>
+	</dict>
+	<key>Item 8</key>
+	<dict>
+		<key>name</key>
+		<string>Thị bò kho</string>
+		<key>photo</key>
+		<string>thitbokho</string>
+	</dict>
+	<key>Item 9</key>
+	<dict>
+		<key>name</key>
+		<string>Thịt gà</string>
+		<key>photo</key>
+		<string>thitga</string>
+	</dict>
+</dict>
+</plist>
